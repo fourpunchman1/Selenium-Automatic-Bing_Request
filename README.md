@@ -1,3 +1,1 @@
-# Vue_Todolist
-"# Selenium-Automatic-Bing_Request" 
-"# Selenium-Automatic-Bing_Request" 
+利用Selenium函式庫功能建立一個自動化腳本，完成登入網站與執行每日任務的操作。
